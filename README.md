@@ -1,5 +1,3 @@
-Trivia Game
-This trivia game is all about its host. You will be allowed 30 seconds to answer each question.
-Once complete, you will see the number of questions you got correct as well as wrong.
-Good Luck!
-How well do YOU know Mackenzie?
+#Trivia Game
+##This trivia game is for the true Grey's Anatomy fans. You have 60 seconds to answer every question. How well do you kow Grey's Anatomy? Complete the quiz to see your score
+#Good Luck!
